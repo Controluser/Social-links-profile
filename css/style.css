@@ -74,6 +74,7 @@ body {
   font-weight: 600;
   padding: 15px 0;
   width: 100%;
+  text-decoration: none;
 }
 
 .links-container .link a:hover {
